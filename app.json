@@ -1,0 +1,17 @@
+{
+  "name": "express-mongodb-base",
+  "description": "An example project for those who want to bootsrap an API using Express and MongoDB.",
+  "keywords": ["express", "node", "mongo", "typescript"],
+  "env": {
+    "JWT_SECRET_KEY": {
+      "description": "JWT Encryption Secret Key",
+      "required": true,
+      "value": "DEFAULT_VALUE"
+    },
+    "MONGO_URL": {
+      "description": "Format: mongodb://[username:password@]host1[:port1]",
+      "required": true,
+      "value": ""
+    }
+  }
+}
