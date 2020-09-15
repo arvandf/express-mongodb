@@ -14,4 +14,4 @@ $ docker-compose up
 ```
 Start Using the API at [http://localhost:3001/api/](http://localhost:3001/api/)
 
-For sake of simplicity only first 5 columns of data are imported.
+For the sake of simplicity only the first 5 columns of data are imported.
